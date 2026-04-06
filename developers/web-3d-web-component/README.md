@@ -2,6 +2,7 @@
 description: >-
   Web Component · SDK · Integration Layer · Visualization Engine for Jewelry
   Configurators & AI
+hidden: true
 ---
 
 # Web 3D - Web Component
