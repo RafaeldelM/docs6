@@ -10,19 +10,19 @@ description: >-
 
 In the **Diamonds** tab, use the **Cutter** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Cutter-1024x136.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Cutter-1024x136.png" alt="" height="106" width="800">
 
 ### **Step 2: Cutter Panel**
 
 Select all the gems and click on the panel to create the cutters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Cutter_Panel-1-1024x577.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Cutter_Panel-1-1024x577.png" alt="" height="451" width="800">
 
 ### **Step 3: Boolean Command**
 
 Go to the **Solid** tab and select **Boolean Difference**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/BooleanDif.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/BooleanDif.png" alt="" height="236" width="800">
 
 ### **Step 4: SelColor**
 
@@ -30,6 +30,6 @@ Select one bezel and type **SelColor** in the command bar. Press enter to select
 
 **Step 5:** After selecting the bezels, choose the cutters and press **Enter** to apply.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Ref-image-1024x554.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Ref-image-1024x554.png" alt="" height="433" width="800">
 
 **Next Step**: Start applying materials to the models.

@@ -38,7 +38,7 @@ Then, enable **Osnap** and select the leftmost point of the gem.
 
 From the **Top** view, create a line going downward.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-2024-11-20T123934.437-1024x992.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-2024-11-20T123934.437-1024x992.png" alt="" width="375">
 
 Show the Prong again, use "Show" in the command prompt.
 

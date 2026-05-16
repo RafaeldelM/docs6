@@ -10,7 +10,7 @@ Design the classic tapered shank using the **Classic Shank** command. Adjust pro
 **Design the Gem and Basket**\
 Create a 1-carat diamond and place it in a custom basket. Modify parameters like height, diameter, and rail profiles for a perfect fit.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/ZoomExtents-1024x409.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/ZoomExtents-1024x409.png" alt="" height="320" width="800">
 
 **Apply Materials Rendering**\
 Apply **White Gold 18k** to the ring and **Diamond** material to the gem. <br>

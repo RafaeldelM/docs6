@@ -12,7 +12,7 @@ Hide the reference curves by selecting them and typing **Hide** in the command b
 
 Right-click on the layer containing the inner curves to select them.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Pattern_sel.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Pattern_sel.png" alt="" height="339" width="800">
 
 ### **Step 3**: Gems By Circles
 

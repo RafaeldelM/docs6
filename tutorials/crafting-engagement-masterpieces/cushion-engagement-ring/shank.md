@@ -10,19 +10,19 @@ description: >-
 
 Go to the "Shanks" tab and select the "Cathedral" command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10-2-300x108.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10-2-300x108.png" alt="" height="108" width="300">
 
 ### **Step 2:  Cathedral Library**
 
 Choose model CA024 and press "Edit."
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/L5-Shank-1-1024x135.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/L5-Shank-1-1024x135.png" alt="" height="105" width="800">
 
 ### **Step 3: Ring Size**
 
 Change the profile to 096 and match the size to the reference curve (size 7, USA).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4.png" alt="" height="129" width="492">
 
 ### **Step 4:** Adjust the shank parameters
 
@@ -31,7 +31,7 @@ Change the profile to 096 and match the size to the reference curve (size 7, USA
 * Cathedral width: 4.73 millimeters
 * Cathedral height: 3.83 millimeters
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/L5-Shank-3-1024x853.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/L5-Shank-3-1024x853.png" alt="" width="563">
 
 ### **Step 5:** Set the bridge
 

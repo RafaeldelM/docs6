@@ -14,13 +14,13 @@ From the "Top" view, select all elements and use the gumball to rotate 45 degree
 
 Go to the "Rendering" tab and select the "Pair" command. Select the shank and the gems, press enter. In the command prompt type 15 milimiters for the distance, for the angle type 0.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-46-1024x656.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-46-1024x656.jpg" alt="" height="513" width="800">
 
 Create one more ring with a distance of -15 and the same angle.
 
 > Note that if you right-click after using a command, it will execute again.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1241-1024x459.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1241-1024x459.jpg" alt="" height="359" width="800">
 
 ### **Step 3: Move**
 

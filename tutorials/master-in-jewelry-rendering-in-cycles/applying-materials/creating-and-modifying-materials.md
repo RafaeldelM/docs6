@@ -12,7 +12,7 @@ At this point, it is necessary to know that we can modify the default materials.
 
 When a material is selected from the menu, its features and characteristics are displayed at the bottom of the screen. These properties can be customized as needed. Since each material type has its own distinct attributes, the options available for modification will vary accordingly.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1118-627x1024.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1118-627x1024.jpg" alt="" width="375">
 
 It is advisable to duplicate a material before modifying its characteristics.
 
@@ -22,15 +22,15 @@ To do this, **right-click** on the material and select '**Duplicate**.' Then, as
 
 We can also start a material from scratch, simply by clicking on **+.**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1119-475x1024.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1119-475x1024.jpg" alt="" width="188">
 
 The different types of materials are as follows:
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1120.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1120.jpg" alt="" width="375">
 
 In this course we will focus on Custom has all possible features within of the same material, as can be seen in the image.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1085-468x1024.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1085-468x1024.jpg" alt="" height="700" width="320">
 
 Name of the material
 
@@ -56,7 +56,7 @@ Tip: To assign an image we will follow three steps.
 
 * **Color**: Specifies a texture to use as the material color.
 
-![](https://academy.rhinoartisan.com/wp-content/uploads/2022/06/Green-300x150.png)
+<img src="https://academy.rhinoartisan.com/wp-content/uploads/2022/06/Green-300x150.png" alt="" width="563">
 
 * **Transparency**: Defines a texture to use as material transparency. In a grayscale, the lightest color will be opaque, while black will be transparent.
   * Example: To the previous green sphere we have applied a texture like the image. We obtain:

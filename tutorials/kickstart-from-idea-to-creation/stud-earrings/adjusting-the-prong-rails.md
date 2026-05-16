@@ -15,7 +15,7 @@ Start by selecting the basket setting you customized in the previous lesson.
 * Option 1: Click on the edit icon **(1)** at the top of the panel to enter the editing mode for the basket.
 * Option 2: Click on the edit icon **(2)** at the outliner.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Frame-2-1024x392.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Frame-2-1024x392.jpg" alt="" height="306" width="800">
 
 ### Step 2: Rail Tab
 
@@ -23,7 +23,7 @@ Once in the editing mode, locate and click on the “Rails” tab **(1)**. This 
 
 
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Frame-4.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Frame-4.jpg" alt="" height="215" width="239">
 
 In the Rails tab, you have the option **(2)** to disable the upper rail if needed. For this tutorial, we'll keep it enabled to ensure maximum support for the prongs.
 
@@ -31,7 +31,7 @@ The Rails tab provides options to change the rail mode **(3)** to either **circl
 
 ### **Profile Curve**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7209.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7209.jpg" alt="" height="232" width="239">
 
 * **(1) Profile library**&#x20;
 * **(2) Profile Editor**
@@ -42,13 +42,13 @@ Click on the profile image in the library icon to open the profile library provi
 
 Here, you can choose from a variety of predefined profiles.&#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1188-300x225.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1188-300x225.png" alt="" height="179" width="239">
 
 ### Edit the Profile Curve
 
 If you wish to edit the profile curve manually, click on the pencil icon in the profile editor. This will allow you to create a custom curve for the prongs.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1189-287x300.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1189-287x300.png" alt="" height="250" width="239">
 
 However, for this tutorial, we'll use the default profile and focus on adjusting specific parameters.
 
@@ -62,13 +62,13 @@ Set the height of the upper rail to **1.10**. This will provide sufficient suppo
 
 Increase the under grille parameter of the upper rail to **1.30**. This will enhance the structural integrity of the upper rail, ensuring it securely holds the prongs in place.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1190-300x154.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1190-300x154.png" alt="" height="154" width="300">
 
 ### **Lower Rail Adjustments**:
 
 Set the height of the lower rail to **1.10**. Matching the height of the upper rail creates a balanced and cohesive design, providing uniform support to the prongs.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1191-300x156.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1191-300x156.png" alt="" height="156" width="300">
 
 After adjusting the rail parameters, click on **done** at the top of the panel to save your changes.
 

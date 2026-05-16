@@ -12,15 +12,15 @@ To begin, you'll need to access the "Curator" panel to add the earring post. The
 
 Go to the **Components** tab and press the **Curator** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7211.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7211.jpg" alt="" height="129" width="730">
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7214-1024x448.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7214-1024x448.png" alt="" height="350" width="800">
 
 ### &#x20;**Option 2**:&#x20;
 
 Use the **Curator** panel located on the left side of the interface.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7215-1024x556.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7215-1024x556.png" alt="" height="434" width="800">
 
 ### **For this lesson:**
 
@@ -28,7 +28,7 @@ In the Curator panel, navigate to the **Findings** category.
 
 Select a **4mm Earring Post Push**, which is a standard option for stud earrings.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7213-188x300.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7213-188x300.png" alt="" height="300" width="188">
 
 Before positioning the post, group the basket and the post together to make positioning easier.
 
@@ -36,23 +36,23 @@ Before positioning the post, group the basket and the post together to make posi
 
 Select both elements (the basket and the post), and in the command prompt, type **"Group"** to combine them.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7216-1024x630.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7216-1024x630.png" alt="" height="492" width="800">
 
 ### Elements Position
 
 The Gumball tool allows you to move, rotate, or drag elements precisely.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1205-300x219.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1205-300x219.png" alt="" height="219" width="300">
 
 Use the **Gumball** tool to adjust the position of the post.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7217-192x300.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7217-192x300.png" alt="" height="300" width="192">
 
 Use the front view. Ensure that the post is correctly aligned with the basket and securely attached.
 
 > Use "Pan,Zoom and Rotate" and then "Zoon Extents All" to center all views.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7219-1024x573.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7219-1024x573.png" alt="" height="448" width="800">
 
 ### Video Lesson
 

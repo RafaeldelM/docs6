@@ -8,7 +8,7 @@ description: 'Objective: Create a precise cutter for the gemstone setting.'
 
 Select the gem, then go to the "Diamonds" tab **(1)** and choose the "Cutter" command **(2)**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-AddGems-3-1-1024x141.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-AddGems-3-1-1024x141.jpg" alt="" height="110" width="800">
 
 ### **Step 2: Parameters**
 
@@ -19,7 +19,7 @@ Adjust the cutter parameters:
 * Gem Inside to -0.01
 * Activate the fourth cutter option to closely fit the cutter to the gem.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-44-1024x459.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-44-1024x459.jpg" alt="" height="359" width="800">
 
 ### **Step 3: Boolean Difference**
 

@@ -599,8 +599,6 @@
     * [Thickness](rendering/commands/advanced/thickness.md)
     * [Displacement](rendering/commands/advanced/displacement.md)
 * [Keyshot](rendering/keyshot.md)
-* [Loom](rendering/loom/README.md)
-  * [How does it work ?](rendering/loom/how-does-it-work.md)
 
 ## AI Loom
 
@@ -1088,35 +1086,3 @@
 * [3D Printing](frequently-asked-questions/3d-printing/README.md)
   * [How can I integrate RhinoArtisan into my printer's 3D printing software?](frequently-asked-questions/3d-printing/how-can-i-integrate-rhinoartisan-into-my-printers-3d-printing-software.md)
 * [How to Link RhinoArtisan with Connect?](frequently-asked-questions/key.md)
-
-## Video Answers
-
-* [How to Apply 3D Textures](video-answers/how-to-apply-3d-textures.md)
-
-## RhinoArtisan LiveView
-
-* [Overview](rhinoartisan-liveview/overview.md)
-* [Export your design to .viewer](rhinoartisan-liveview/export-your-design-to-.viewer.md)
-* [How to Embed](rhinoartisan-liveview/how-to-embed.md)
-
-## Developers
-
-* [Web 3D - Web Component](developers/web-3d-web-component/README.md)
-  * [Examples](developers/web-3d-web-component/examples/README.md)
-    * [Example 1: Basic HTML integration](developers/web-3d-web-component/examples/example-1-basic-html-integration.md)
-    * [Example 2: Setting options using JavaScript](developers/web-3d-web-component/examples/example-2-setting-options-using-javascript.md)
-    * [Example 3: Product configurator](developers/web-3d-web-component/examples/example-3-product-configurator.md)
-    * [Example 4: Studio / catalog render](developers/web-3d-web-component/examples/example-4-studio-catalog-render.md)
-    * [Example 5: Guided interaction (onboarding)](developers/web-3d-web-component/examples/example-5-guided-interaction-onboarding.md)
-    * [Example 6: Performance / mobile friendly](developers/web-3d-web-component/examples/example-6-performance-mobile-friendly.md)
-    * [Example 7: Post-processing playground](developers/web-3d-web-component/examples/example-7-post-processing-playground.md)
-  * [API Reference](developers/web-3d-web-component/api-reference/README.md)
-    * [Properties / Options](developers/web-3d-web-component/api-reference/properties-options.md)
-    * [Methods](developers/web-3d-web-component/api-reference/methods.md)
-    * [Events](developers/web-3d-web-component/api-reference/events.md)
-    * [Lifecycle](developers/web-3d-web-component/api-reference/lifecycle.md)
-  * [Framework integration](developers/web-3d-web-component/framework-integration.md)
-* [Web 3D - iFrame](developers/web-3d-iframe.md)
-* [Web-3D - Shopify Integración](developers/web-3d-shopify-integracion.md)
-* [iframe vs Web Component](developers/iframe-vs-web-component.md)
-* [Connect API](developers/connect-api.md)

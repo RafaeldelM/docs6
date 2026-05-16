@@ -28,7 +28,7 @@ Click on the **Profile preview** (1). In the **Asset Selector** (2), select prof
 
 Adjust the size to **United States of America** and set the ring to **size 6 ½**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-13.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-13.png" alt="" height="128" width="441">
 
 ### **Shank Parameters**
 

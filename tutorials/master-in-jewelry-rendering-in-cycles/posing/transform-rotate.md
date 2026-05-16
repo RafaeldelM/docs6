@@ -2,7 +2,7 @@
 
 We can rotate an object along the **X**, **Y** and **Z axes.** To do this we must have the option **Gumball** activated in the lower menu.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-25-1024x656.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-25-1024x656.jpg" alt="" height="513" width="800">
 
 X-Axis Rotation: Red
 

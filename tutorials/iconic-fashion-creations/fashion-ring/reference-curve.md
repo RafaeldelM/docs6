@@ -10,19 +10,19 @@ description: 'Objective: Set up the initial shank size for your fashion ring.'
 
 {% file src="../../../.gitbook/assets/Fashion Ref Curves.3dm" %}
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-68-1024x557.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-68-1024x557.jpg" alt="" height="435" width="800">
 
 ### **Steps 2: Shanks Curve**
 
 Go to the "Shanks" tab **(1)** and click on the "Curve" command **(2)**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-66-1024x173.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-66-1024x173.jpg" alt="" height="135" width="800">
 
 ### **Steps 3: Ring Size**
 
 Change the region to the United States of America and select a size 7 for the shank.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-69.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-69.jpg" alt="" height="221" width="269">
 
 ### **Video Lesson**
 

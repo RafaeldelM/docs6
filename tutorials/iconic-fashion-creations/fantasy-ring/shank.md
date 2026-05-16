@@ -8,7 +8,7 @@ description: 'Objective: Create and adjust the custom cathedral shank.'
 
 Go to the "Shanks" tab and select the "Cathedral" command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Cathedral.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Cathedral.png" alt="" height="236" width="693">
 
 ### **Step 2:** Click "Edit"
 
@@ -18,7 +18,7 @@ Go to the "Shanks" tab and select the "Cathedral" command.
 
 For the profile, select curve 003.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-8-1024x787.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-8-1024x787.png" alt="" height="615" width="800">
 
 ### **Step 4:** Adjust the parameters:
 
@@ -29,7 +29,7 @@ For the profile, select curve 003.
 * Cathedral width: 2.93 millimeters.
 * Cathedral height: 2.99 millimeters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/parameters.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/parameters.png" alt="" height="518" width="466">
 
 ![](<../../../.gitbook/assets/02 Cathedral Shank.png>)
 

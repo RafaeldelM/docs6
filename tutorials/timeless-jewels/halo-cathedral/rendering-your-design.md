@@ -14,19 +14,19 @@ Select the halo and type **Ungroup** in the command prompt.&#x20;
 
 Go to the render and animation tab
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render-1024x139.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render-1024x139.png" alt="" height="109" width="800">
 
 * For **metal** parts, go to the **Material** section, select **White Gold 18k**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-Metal_2-1024x362.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-Metal_2-1024x362.png" alt="" height="283" width="800">
 
 * For the halo **diamonds**, go to **Gem category** and select **Diamond material**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-GEMS-1024x308.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-GEMS-1024x308.png" alt="" height="241" width="800">
 
 * For the **main** **gem** select **Tanzanite green.**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-Main-gems-1024x308.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-Main-gems-1024x308.png" alt="" height="241" width="800">
 
 * In the **Ground category**, choose **Basic Reflection**.
 
@@ -35,12 +35,12 @@ Go to the render and animation tab
 * Adjust **perspective angle** and **distance** to your preference.
 * Set your desired **Resolution** and **Quality**, then click **Render** to produce the final image.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/REnder_halo-1024x277.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/REnder_halo-1024x277.png" alt="" height="216" width="800">
 
 ### **Video Lesson**
 
 {% embed url="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Lesson-4.mp4" %}
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Render-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Render-1024x576.png" alt="" height="450" width="800">
 
 &#x20;

@@ -22,7 +22,7 @@ For the gems, apply the Diamond material.
 
 For the ground, apply a basic reflection.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-34-1024x658.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-34-1024x658.jpg" alt="" height="514" width="800">
 
 ### **Set Rendering Parameters**
 
@@ -32,7 +32,7 @@ Set the resolution to **1920×1080** for a high-quality output.
 
 Leave the **Quality** setting at **200**, which is the default setting.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1219-1024x307.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1219-1024x307.png" alt="" height="240" width="800">
 
 ### **Render the Model:**
 

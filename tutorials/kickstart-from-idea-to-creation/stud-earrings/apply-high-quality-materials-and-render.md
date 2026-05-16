@@ -14,13 +14,13 @@ To begin, go to the **Render and Animation** panel located on the right side of 
 
 Alternatively, you can access this panel by going to the **Rendering** tab and clicking on the **Render and Animation** command, located on the far right.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7222-1024x556.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7222-1024x556.png" alt="" height="434" width="800">
 
 ### **Select Metal Materials:**
 
 In the **Render and Animation** panel, the first tab contains various metal materials.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1216-1-1024x527.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1216-1-1024x527.png" alt="" height="412" width="800">
 
 You can assign materials in two ways:
 
@@ -33,7 +33,7 @@ For this model, assign **White Gold 18k** to all the metallic parts of your earr
 
 In the second tab, you will find materials for gemstones.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1217-1024x658.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1217-1024x658.png" alt="" height="514" width="800">
 
 Apply the **Diamond** material to the gem in your model.
 
@@ -41,7 +41,7 @@ Apply the **Diamond** material to the gem in your model.
 
 Navigate to the **Ground** tab in the Render and Animation panel
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1218-1024x658.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1218-1024x658.png" alt="" height="514" width="800">
 
 Apply a **Basic Reflection Rose** material to the ground, adding a subtle reflective surface beneath your earrings.
 
@@ -53,7 +53,7 @@ Set the resolution to **1920x1080** for a high-quality output.
 
 Leave the **Quality** setting at **200**, which is the default setting.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1219-1024x307.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1219-1024x307.png" alt="" height="240" width="800">
 
 ### **Render the Model:**
 
@@ -61,7 +61,7 @@ Ensure that your model is properly positioned within the **safe frames**.
 
 **Safe frames** indicate the visible area of the render; anything outside these frames will not be included in the final image. Adjust the model's position so that all important elements are within the safe frames.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1220-1024x581.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1220-1024x581.png" alt="" height="454" width="800">
 
 Once everything is set, press the **Render** button to generate your final image.
 

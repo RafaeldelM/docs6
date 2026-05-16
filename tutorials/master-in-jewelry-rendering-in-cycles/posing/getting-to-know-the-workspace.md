@@ -16,4 +16,4 @@ Another interesting option is to be able to zoom to the point where the cursor i
 
 **Tip**: The command **ZE** will fit the objects in the view that we have selected. We can also use Pan, Zoom, and Rotate, and then **Zoom Extents All** or **Alt + Ctrl + E.**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-20-1-692x1024.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-20-1-692x1024.jpg" alt="" height="500" width="338">

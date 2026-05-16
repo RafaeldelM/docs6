@@ -6,14 +6,14 @@ Go to the Rendering Panel ![](https://www.rhinoartisan.com/wp-content/uploads/20
 Click on Current Renderer and ensure Rhino Render is selected.\
 This step ensures that you're using Rhino’s built-in rendering engine, unless you've chosen a different rendering plug-in.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-27.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-27.png" alt="" height="404" width="674">
 
 ### **1- Current Renderer**
 
 The Current Renderer option determines which rendering engine Rhino will use to render your model.\
 Rhino Render is the default engine, but Rhino also supports third-party plug-ins, allowing you to switch to other rendering engines depending on your needs.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1125.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1125.png" alt="" height="171" width="580">
 
 ### **2- View**
 
@@ -22,7 +22,7 @@ Rhino Render is the default engine, but Rhino also supports third-party plug-ins
 * **Named View**: If you have previously saved specific viewpoints, known as **Named Views**, you can select one from the list to render. Named Views are predefined camera positions, allowing you to render consistently from the same angle, which is especially useful for comparisons or iterative design processes.
 * **Snapshot**: Allows you to render the model as it appeared at a particular moment in time, based on snapshots you've saved. This is ideal for rendering different stages of a design or capturing specific configurations of your model.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1126.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1126.png" alt="" height="220" width="580">
 
 ### **3- Resolution and Quality:**
 
@@ -37,7 +37,7 @@ Rhino Render is the default engine, but Rhino also supports third-party plug-ins
   * Good Quality: 500 samples—balanced quality and speed.
   * Final Quality: 1500 samples—highest quality for final renders.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1127.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1127.jpg" alt="" height="240" width="573">
 
 ### **4- Background**
 
@@ -49,13 +49,13 @@ The **background** in Rhino refers to what appears behind your model in the rend
 * **Wallpaper**: Uses the current viewport’s wallpaper as the background. This is useful if you have set a specific image as a reference or background in the viewport.
 * **Transparent Background**: Renders the background as transparent, using an alpha channel. This is especially useful for post-processing in image editing software, allowing you to place the rendered model over any background you choose later on.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1128.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1128.jpg" alt="" height="377" width="574">
 
 ### **5- Ground Plane**
 
 Turns on the ground plane. The **Ground Plane** in Rhino is an invisible surface that acts as the base on which your model "sits." It provides a reference for shadows, reflections, and the overall interaction of your model with its environment during rendering.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1129.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1129.jpg" alt="" height="161" width="595">
 
 ### **6- Lighting**
 
@@ -69,7 +69,7 @@ Lighting is a crucial element in rendering, as it defines how your model is illu
 * **Use Custom Environment for Skylighting**: This option lets you set a **Custom Environment** as the source of skylight, instead of the default one. This can be an HDR image or a specific sky texture, giving you more control over the lighting ambiance.
 * **Lights Panel**: Opens the **Lights panel**, where you can manage all other light sources in the scene, such as point lights, spotlights, and area lights, allowing for more detailed and specific lighting setups.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1130.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1130.jpg" alt="" height="329" width="595">
 
 ### **7- Whireframe**
 
@@ -82,7 +82,7 @@ See this in lesson 5: [**Post Effects**](https://www.rhinoartisan.com/courses/je
 * **Dithering**: Is used to reduce banding, a visual artifact caused by the limited color depth of monitors and certain image formats (like JPEG or PNG).
 * **Gamma Correction:** Adjusts the brightness and contrast of your rendered image to ensure it looks correct on a standard monitor. Since monitors display colors non-linearly, the Gamma value helps correct this, resulting in an image that appears more natural and true to life.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1131.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1131.png" alt="" height="174" width="591">
 
 ### **9- Render Channels**
 
@@ -91,10 +91,10 @@ See this in lesson 5: [**Post Effects**](https://www.rhinoartisan.com/courses/je
 * Rhino automatically enables the necessary render channels based on the rendering setup. This is convenient if you want Rhino to handle the technical details.
 * Allows you to manually select which render channels to include, giving you control over the specific types of data you want to extract from the render.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1132.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1132.png" alt="" height="282" width="576">
 
 ### **10- Advanced Settings**
 
 The **Advanced Settings** in Rhino Render provide control over noise reduction, sample quality, light interactions, and texture baking. Adjusting these settings helps balance rendering quality and performance based on your specific needs.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1133.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1133.png" alt="" height="722" width="598">

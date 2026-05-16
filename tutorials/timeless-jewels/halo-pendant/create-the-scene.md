@@ -8,28 +8,28 @@ description: Create the scene for the final render.
 
 Select the model, go to the **Transform** tab, and use the **Rotate** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Rotate-1024x175.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Rotate-1024x175.png" alt="" height="137" width="800">
 
 ### **Step 2: Pose**
 
 In the **Right View**, choose the lowest point on the halo as the first point (1) and the lowest tangent point on the bail as the second (2). Hold “**Shift**” and click in the viewport (3) to pose the pendant.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Pose-1024x229.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Pose-1024x229.png" alt="" height="179" width="800">
 
 ### **Step 3: Polar Array**
 
 In Top View, move all elements up by 15 mm.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Move_pendant-234x300.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Move_pendant-234x300.png" alt="" height="300" width="234">
 
 In the T**ransform** tab Use the **Quick Array Polar**&#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/QuickPolarArray-1024x138.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/QuickPolarArray-1024x138.png" alt="" height="108" width="800">
 
 * Set Orientation to Top
 * Set the copies to 4.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/QuickPolarArray_parameters-1-1024x369.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/QuickPolarArray_parameters-1-1024x369.png" alt="" height="288" width="800">
 
 ### **Video Lesson**
 

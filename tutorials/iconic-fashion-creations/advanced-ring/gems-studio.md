@@ -14,19 +14,19 @@ Run the "Gem Studio" command.
 
 Create a half-carat, round stone. Click “Add.”
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-5-499x1024.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-5-499x1024.png" alt="" width="375">
 
 ### **Step 3: Move Command**
 
 In the "Transform" tab, use the "Move" command to position the gem.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-6.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-6.png" alt="" height="268" width="423">
 
 ### **Step 4: Osnap**
 
 Ensure "Vertex" and "Mid" options are enabled in the Osnap panel.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-7-2-1024x355.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-7-2-1024x355.png" alt="" height="277" width="800">
 
 ### **Step 5: Place Gem**
 

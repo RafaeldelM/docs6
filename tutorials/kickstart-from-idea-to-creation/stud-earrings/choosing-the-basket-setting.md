@@ -16,7 +16,7 @@ In this lesson, we will design a curved basket setting for your diamond. RhinoAr
 
 Begin by select the gem and then navigate to the toolbar and select the “Diamonds” tab **(1)**. Select the “Basket” command **(2)**. This will open a library of pre-designed basket models.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/BasketSetting-1-1024x77.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/BasketSetting-1-1024x77.png" alt="" height="60" width="800">
 
 ### Step 2: Basket Library
 
@@ -26,13 +26,13 @@ Click on the pencil icon **(2)** at the top of the library to open the editing p
 
 
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7200-1.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7200-1.jpg" alt="" height="300" width="232">
 
 Since the half-carat stone has a diameter larger than 5 millimeters, it’s crucial to ensure that the prongs securely hold the diamond.
 
 ### **Step 3: Parameters**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Parameters-1.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Parameters-1.jpg" alt="" height="400" width="223">
 
 * Set the prong **diameter** to **1.20**.
 * To enhance the design and add detail, set the **bottom diameter** of the lower part of the basket to **0.90**. This will ensure that the basket is both sturdy and visually appealing.
@@ -40,7 +40,7 @@ Since the half-carat stone has a diameter larger than 5 millimeters, it’s cruc
 * Change the prong mode to **curved** for a more elegant design.
 * Set the post support to **Double** to provide additional stability for the setting.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Frame-1-1024x430.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Frame-1-1024x430.png" alt="" height="336" width="800">
 
 ### Video Lesson
 

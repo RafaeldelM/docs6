@@ -16,7 +16,7 @@ Activate all views **(1)**, double click on top, and switch to "Shaded Mode" by 
 
 From the "Perspective" view, select the curve, use the gumball tool **(2)** to drag the blue circle upwards **(2)**, extruding the curve until it surpasses the shank.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-21-1.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-21-1.jpg" alt="" height="416" width="705">
 
 ![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-3.png)
 

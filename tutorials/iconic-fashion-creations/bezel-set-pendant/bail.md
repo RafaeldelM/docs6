@@ -8,13 +8,13 @@ description: 'Objective: Add and customize a bail for the pendant.'
 
 In the **Components** tab, use the **Bail** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bail_command-1024x143.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bail_command-1024x143.png" alt="" height="112" width="800">
 
 ### **Step 2**: Bail Library and O-Ring&#x20;
 
 Select the **BL03** model and disable the **O-Ring**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bail_commandOring-1024x240.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bail_commandOring-1024x240.png" alt="" height="188" width="800">
 
 ### **Step 3**: Parameters
 
@@ -36,31 +36,31 @@ Adjust the parameters as follows:
 * Bottom Diameter: 0.9 mm
 * Internal Distance: 3.5 mm
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bail-1024x548.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bail-1024x548.png" alt="" height="428" width="800">
 
 ### **Step 4**: Display Modes
 
 Switch to **Ghosted** visualization mode to view the inside of the bezel.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Ghosted-1024x451.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Ghosted-1024x451.png" alt="" height="352" width="800">
 
 ### **Step 5**: Diameter Command
 
 In the **Curve** tab, use the **Diameter** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Curve_diameter-1024x247.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Curve_diameter-1024x247.png" alt="" height="193" width="800">
 
 ### **Step 6: Inner Curve**
 
 As the first point, select the **inner curve of the bezel**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/CurveBEZEL2-1024x451.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/CurveBEZEL2-1024x451.png" alt="" height="352" width="800">
 
 ### **Step 7**: Create the Diameter Curve
 
 Type **2.05 millimeters** and select a point on the Y-axis at the Bail's location.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/CurveBEZEL3-1024x451.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/CurveBEZEL3-1024x451.png" alt="" height="352" width="800">
 
 ### **Step 8**: Pose the bezels
 
@@ -72,7 +72,7 @@ In the **Right** view, select all bezels and gems, and adjust the height to alig
 
 In the **Solid** tab, use the **Pipe** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/PipeCommand-1024x127.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/PipeCommand-1024x127.png" alt="" height="99" width="800">
 
 ### **Step 10:  Create the O-Ring**
 

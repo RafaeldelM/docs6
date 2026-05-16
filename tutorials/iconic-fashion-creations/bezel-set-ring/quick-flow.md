@@ -8,7 +8,7 @@ To continue, we will ungroup all the curves. Select the curves and type **Ungrou
 
 Now, go to the **Transform** tab and click on the **Quick Flow** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/QuickFlow-1024x113.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/QuickFlow-1024x113.png" alt="" height="88" width="800">
 
 ### **Step 3: Rigid Elements**
 

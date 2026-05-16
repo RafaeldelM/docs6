@@ -8,7 +8,7 @@ description: 'Objective: Apply diamond and white gold materials to the ring elem
 
 Go to the "Render and Animation" panel.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10-300x185.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10-300x185.png" alt="" height="185" width="300">
 
 ### **Step 2: Gems Materials**
 

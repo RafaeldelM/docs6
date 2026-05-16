@@ -6,7 +6,7 @@ With all components in place, our Classic Cluster Ring is ready for rendering. A
 
 To create the final render, go to the Render and Animation panel.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/RenderAndAnimation-Panel-1024x106.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/RenderAndAnimation-Panel-1024x106.png" alt="" height="83" width="800">
 
 ### **Metals**
 

@@ -30,11 +30,11 @@ Choose the **10 bottom faces** of one prong and its corresponding innermost face
 
 > If we select faces we don't want by holding **Ctrl** and **clicking** on them, we can **deselect** them.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Bridge_first10faces.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Bridge_first10faces.png" alt="" width="375">
 
 Press **Enter** and repeat for the second prong.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Bridge_Second10faces.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Bridge_Second10faces.png" alt="" width="375">
 
 Press enter and in the dialog: Set **Segments** to **2**.
 

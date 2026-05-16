@@ -10,13 +10,13 @@ description: >-
 
 In the **Curve** tab, select the **Offset** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Offset-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Offset-1.png" alt="" height="152" width="800">
 
 ### **Step 2**: Use Offset
 
 Type **0.6 millimeters** to offset each of the circles. Repeat this for all circles.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Offset_command2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Offset_command2.png" alt="" height="152" width="800">
 
 Once completed, move the **outer curves** to a different layer for better visibility.
 

@@ -21,7 +21,7 @@ In the **Front View**:
 * For the endpoint, count **three squares downward and one square toward the Z-axis**.
 * Adjust the curve with the third point to achieve the desired shape.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/CURVE-REF2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/CURVE-REF2.png" alt="" width="375">
 
 ### **Video Lesson**
 

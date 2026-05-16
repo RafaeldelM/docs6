@@ -14,8 +14,8 @@ Using what we have learned, we must:
 
 The end result should look like this:
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1060.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1060.png" alt="" height="546" width="730">
 
 To check if each element is in its layer, right-click on the layer:
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1061-300x296.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1061-300x296.png" alt="" height="296" width="300">

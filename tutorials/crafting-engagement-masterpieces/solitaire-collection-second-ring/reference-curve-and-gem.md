@@ -8,13 +8,13 @@ description: 'Objective: Set up a reference curve and add a 0.35-carat gem to th
 
 In the **Shanks** tab, create a reference curve.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-2.png" alt="" height="248" width="671">
 
 ### **Step 2: Ring Size**
 
 Set the region to **"United States of America"** and select size **7**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4.png" alt="" height="129" width="492">
 
 ### **Step 3: Gems Studio**
 

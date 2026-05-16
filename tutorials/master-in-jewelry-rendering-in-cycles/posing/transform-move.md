@@ -4,7 +4,7 @@ To move objects we have several options:
 
 * **Do it from the top tab Transform → Move.**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-21-1024x320.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-21-1024x320.jpg" alt="" height="250" width="800">
 
 Move by normal: We can move the objects according to the direction of the normal that we press. Let's look at the case of a cube:
 
@@ -12,7 +12,7 @@ Move by normal: We can move the objects according to the direction of the normal
 * Selecting the cube will ask us to select a surface. Selecting it will show us the direction of movement of the normal.
 * It will now ask us for a number to carry out the movement.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-23-1-1024x661.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-23-1-1024x661.jpg" alt="" height="516" width="800">
 
 **Move on Objects:** Allows you to move an object taking into account the distances of another. In this case we will move a sphere over a cube:
 
@@ -21,7 +21,7 @@ Move by normal: We can move the objects according to the direction of the normal
 * We select the base object, the cube → Enter
 * We select the point of the cube to which we want to move the sphere.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1095-1024x626.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1095-1024x626.jpg" alt="" height="489" width="800">
 
 When we leave the surface of the cube we will not be able to select any point, because the movement will be limited to the selected surface.
 
@@ -32,8 +32,8 @@ When we leave the surface of the cube we will not be able to select any point, b
 
 Tip: If we click on one of the arrows we can write the exact distance to which we want to move the object.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-25-1024x656.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-25-1024x656.jpg" alt="" height="513" width="800">
 
 We can also click on the rectangular icon and freely move the object.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-24.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-24.png" alt="" height="407" width="656">

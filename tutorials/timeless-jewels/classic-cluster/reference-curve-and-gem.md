@@ -14,7 +14,7 @@ description: Set up a reference curve with a 1-carat gem.
 
 This time, select the **USA size 6 ½**  for the reference curve.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/ReferenceCurveSize.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/ReferenceCurveSize.png" alt="" height="388" width="473">
 
 ### **Steps 3: Gem Studio**
 

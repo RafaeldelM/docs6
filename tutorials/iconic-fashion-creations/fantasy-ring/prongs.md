@@ -15,17 +15,17 @@ Adjust the parameters:
 
 Deactivate "Automatic Prong Diameter."
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-18-at-12.57.04.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-18-at-12.57.04.png" alt="" width="375">
 
 ### **Step 2: Drill**
 
 Also, add a round drill with a height of 2 millimeters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-18-at-12.58.05.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-18-at-12.58.05.png" alt="" width="375">
 
 Perfect! We have now created our model. Now we will proceed to create a beautiful render.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-26-1-1024x572.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-26-1-1024x572.png" alt="" height="447" width="800">
 
 ### **Video Lesson**
 

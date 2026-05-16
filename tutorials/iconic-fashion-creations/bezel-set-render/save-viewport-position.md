@@ -14,7 +14,7 @@ Type **Snapshot** in the command bar to open the Snapshot panel.
 
 Click the first icon in the panel to save a snapshot, ensuring all options are selected.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Snapshot-1024x237.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Snapshot-1024x237.png" alt="" height="185" width="800">
 
 ### **Step 3: Use your saved** Snapshot
 

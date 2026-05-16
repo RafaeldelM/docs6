@@ -12,13 +12,13 @@ In this lesson, we'll create the socket using a rounded rectangle.
 
 Switch to the "Top" view for better precision. Double click
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Curve-1024x576.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Curve-1024x576.jpg" alt="" height="450" width="800">
 
 ### **Step 2: Set the Layer Color**
 
 Select a color from the left panel to visualize the curve.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-10.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-10.jpg" alt="" height="540" width="630">
 
 ### **Step 3: Rounded Curve Command**
 

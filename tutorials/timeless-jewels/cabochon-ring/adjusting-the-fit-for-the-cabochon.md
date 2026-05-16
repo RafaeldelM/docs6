@@ -17,7 +17,7 @@ In the front view, use the gumball to move the cabochon 0.7 mm down.
 * Select the cabochon, then type **Offset** in the command bar.
 * Use the arrow keys to select **Offset Surface**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/OffsetSrf.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/OffsetSrf.png" alt="" height="330" width="246">
 
 * Set the **Distance** to **0.05 mm**.
 * Press **Enter** to create the offset.

@@ -10,32 +10,32 @@ description: >-
 
 Go to the **Shanks** tab (1), choose the **Classic Shank** (2) command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank_classic-1024x131.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank_classic-1024x131.png" alt="" height="102" width="800">
 
 ### **Step 2: Classic Library**
 
 Select element **CL01**, and click the **Pencil** button to edit.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank_classic-001-1024x326.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank_classic-001-1024x326.png" alt="" height="255" width="800">
 
 ### **Step 3: Display Mode**
 
 Click on the bottom-right of the viewport and switch to **Shaded Display Mode** to enhance visualization.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Classic-Shaded-1024x370.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Classic-Shaded-1024x370.png" alt="" height="289" width="800">
 
 ### **Step 4: Profile Adjustments**
 
 * Click on the **profile preview (1)**. In the **Asset Selector**, select **Profile 084 (2)**.
 * Set **Width (3)** to **1.5mm** and **Height (4)** to **2.0mm**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-Selector-84-1-1024x370.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-Selector-84-1-1024x370.png" alt="" height="289" width="800">
 
 ### **Step 5:  Bottom Profile**
 
 Go to the **Bottom Profile** tab (1), turn it on (2), click on the profile preview (3) and select **Profile 084** (4) in the **Asset Selector**. Change the width to **2.5mm** (5) and land leave height (6) at **2 mm**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-Selector-Botton-1024x340.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-Selector-Botton-1024x340.png" alt="" height="266" width="800">
 
 ### **Step 6: External Profile**
 
@@ -47,7 +47,7 @@ Set Parameters:
 * **Middle**: 2.0mm
 * **Bottom**: 2.0mm
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-external-1024x340.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-external-1024x340.png" alt="" height="266" width="800">
 
 ### **Step 7: Finishing**
 
@@ -58,7 +58,7 @@ Set Parameters:
 * Base Y: **1.3mm**
 * Base Z: **1.1mm**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Pinch-1024x324.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Pinch-1024x324.png" alt="" height="253" width="800">
 
 ### **Step 8:  Apply Changes**
 

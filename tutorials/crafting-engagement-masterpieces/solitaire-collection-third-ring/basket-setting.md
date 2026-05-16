@@ -8,13 +8,13 @@ description: 'Objective: Set up the basket for the gem and adjust its parameters
 
 With the gem selected, use the **Basket** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-1-5-1024x141.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-1-5-1024x141.png" alt="" height="110" width="800">
 
 ### **Step 2: Basket Library**
 
 Select element **BA010**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/BA010-1024x405.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/BA010-1024x405.png" alt="" height="316" width="800">
 
 ### **Step 2**: Basket Parameters
 
@@ -26,7 +26,7 @@ Edit the following parameters:
 * Set **Over Girdle** to **0.20 millimeters**.
 * Set the **Bottom Diameter** to **0.9 millimeters**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Basket-Parameters-Solitaire-3-1-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Basket-Parameters-Solitaire-3-1-1024x576.png" alt="" height="450" width="800">
 
 ### **Video Lesson**
 

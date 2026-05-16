@@ -30,7 +30,7 @@ Learn how to create symmetrical patterns and seamlessly apply bezels, achieving 
 
 The journey continues with a ring that complements the set perfectly.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/QuickFlow_panel-1024x291.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/QuickFlow_panel-1024x291.png" alt="" height="227" width="800">
 
 You’ll explore advanced techniques like curve adjustments and Quick Flow to ensure a harmonious and visually striking design.
 

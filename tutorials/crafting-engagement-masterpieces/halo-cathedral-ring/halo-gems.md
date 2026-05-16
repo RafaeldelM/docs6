@@ -12,7 +12,7 @@ Go to the "Gems" tab in the halo settings and adjust the following parameters:
 * Min distance between gems: 0.20 millimeters.
 * Inner width: 0.70 millimeters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4-1-477x1024.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4-1-477x1024.png" alt="" height="750" width="349">
 
 ### **Video Lesson**
 

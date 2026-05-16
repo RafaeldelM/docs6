@@ -10,11 +10,11 @@ In this lesson, we are going to work with a 0.4 carat diamond. RhinoArtisan prov
 
 * In the “Diamonds” tab **(1)**, select the “Gem Studio” command **(2)**. This will open a panel where you can customize various parameters of your diamond.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Gems-Studio-1024x141.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Gems-Studio-1024x141.png" alt="" height="110" width="800">
 
 * Set the parameters according to your design needs. **(3)**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/StudEarrings-Diamonds-4.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/StudEarrings-Diamonds-4.jpg" alt="" height="411" width="200">
 
 * **Add to Center (4):** The diamond will be added to the center of the viewport.
 * **Add to a Specific Point (5):** Select a point in the viewport, and the diamond will be positioned at that exact location.

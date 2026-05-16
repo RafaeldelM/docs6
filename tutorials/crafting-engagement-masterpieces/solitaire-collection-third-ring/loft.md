@@ -10,7 +10,7 @@ description: >-
 
 In the **Surface** tab, use the **Loft** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Loft_Command-1024x161.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Loft_Command-1024x161.png" alt="" height="126" width="800">
 
 ### **Step 2**: Selections
 
@@ -18,13 +18,13 @@ Select the seams of the basket rails. Press **Enter** twice to accept the defaul
 
 &#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Loft-1024x466.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Loft-1024x466.png" alt="" height="364" width="800">
 
 ### **Step 3**: Hide
 
 Hide the basket using the **Hide** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-92-1024x621.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-92-1024x621.png" alt="" height="485" width="800">
 
 ### **Step 5**: Extend
 
@@ -32,11 +32,11 @@ Extend the loft to perform a **Boolean Difference**:
 
 * Use the **Extend** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Extend-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Extend-1.png" alt="" height="236" width="800">
 
 * Extend both ends of the Loft
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Extend_Both-1024x302.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Extend_Both-1024x302.png" alt="" height="236" width="800">
 
 * Ensure the extension surpasses both the top and bottom parts of the top width of the shank.
 
@@ -44,12 +44,12 @@ Extend the loft to perform a **Boolean Difference**:
 
 * In the **Surface** tab, use the **Offset** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Offset.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Offset.png" alt="" height="236" width="800">
 
 * Click the surface to change the direction outward.
 * In the command bar, type **0.25 millimeters** as the distance and press **Enter**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Extend_offset-1024x302.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Extend_offset-1024x302.png" alt="" height="236" width="800">
 
 &#x20;
 
@@ -57,7 +57,7 @@ Extend the loft to perform a **Boolean Difference**:
 
 In the **Solid** tab, use the **Boolean Difference** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/BooleanDif.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/BooleanDif.png" alt="" height="236" width="800">
 
 * Select the shank and press **Enter**.
 * Select the loft and press **Enter**.
@@ -66,7 +66,7 @@ _Now, you can delete the loft and remove any excess and reference curves._
 
 **Step 5**: Hide the basket to see the result.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/BooleanDif-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/BooleanDif-1.png" alt="" height="544" width="800">
 
 **Step 7**: Show the basket again using the **Show** command.
 

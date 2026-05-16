@@ -8,13 +8,13 @@ description: 'Objective: Add a gemstone to your ring and position it accurately.
 
 In the left panel, click on the "0.5" to add a half-carat gem.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/05-quick-Gems.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/05-quick-Gems.png" alt="" height="297" width="478">
 
 ### **Step 2: Pose Gem**
 
 Switch to the "Front" view and raise the gem until its culet touches the bridge.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1234-1024x574.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1234-1024x574.jpg" alt="" width="563">
 
 ### **Video Lesson**
 

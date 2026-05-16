@@ -24,7 +24,7 @@ description: Add a ground plane for realistic rendering.
 
 Lower the **Roughness** to 13% for a polished finish.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/12/image-10.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/12/image-10.png" alt="" width="375">
 
 ### **Adjust View and Lighting**
 

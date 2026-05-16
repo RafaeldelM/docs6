@@ -10,11 +10,11 @@ description: >-
 
 Select the main gem, navigate to the **Diamonds** tab (1), and click on the **Halo** command (2).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Command-1024x141.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Command-1024x141.png" alt="" height="110" width="800">
 
 Without selecting any elements, click Edit (1).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Setting-1024x278.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Setting-1024x278.png" alt="" height="217" width="800">
 
 ### **Step 2 - Set the parameters**
 
@@ -24,7 +24,7 @@ Without selecting any elements, click Edit (1).
 
 &#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Parametros-1024x555.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Parametros-1024x555.png" alt="" height="434" width="800">
 
 ### **Step 3 - Confirm all changes**
 

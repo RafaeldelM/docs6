@@ -22,7 +22,7 @@ TIP: Use the shaded mode for better visualization of the model. Change it in the
 
 Adjust the parameters of the model by changing the **Height** to 1.5 millimeters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Shank3-445x1024.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Shank3-445x1024.jpg" alt="" height="600" width="260">
 
 **Step 4:** Click "Accept" to finalize the shank design.
 

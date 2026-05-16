@@ -10,7 +10,7 @@ description: >-
 
 Go to the **Shanks** tab (1), select the **Cathedral** (2) command, and click on **Edit**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Cathedral-Command-1024x141.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Cathedral-Command-1024x141.png" alt="" height="110" width="800">
 
 ### **Step 2: Ring Size**
 
@@ -30,7 +30,7 @@ Click on the **Profile preview**. In the **Asset Selector** (1), select profile 
 
 Click on edit the profile, and edit the profile to match the image.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-EDitor-1024x318.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Profile-EDitor-1024x318.png" alt="" height="248" width="800">
 
 ### **Step 5: Adjust Parameters**
 
@@ -52,9 +52,9 @@ Click on edit the profile, and edit the profile to match the image.
 * **Thickness** to 0.8 mm
 * **Diameter** to 0 mm.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Parameters-1024x282.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Parameters-1024x282.png" alt="" height="220" width="800">
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank-Cathedral-finish-1024x344.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank-Cathedral-finish-1024x344.png" alt="" height="269" width="800">
 
 Click **Accept** in the top-right to save your modifications.
 

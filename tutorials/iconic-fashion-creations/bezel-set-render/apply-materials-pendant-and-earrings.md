@@ -14,22 +14,22 @@ description: >-
 
 Go to the **Rendering and Animation** panel.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render-1024x139.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render-1024x139.png" alt="" height="109" width="800">
 
 ### **Step 3:** Reference Image
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render-Final-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render-Final-1024x576.png" alt="" height="450" width="800">
 
 ### **Step 3: Apply Materials**
 
 Select the green gems and apply **Tanzanite Green** from the **Gems** tab. Apply **Tourmaline Rose** to the pink gems. Apply **Citrine** to the orange gems.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render_Materials-1024x489.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render_Materials-1024x489.png" alt="" height="382" width="800">
 
 ### **Step 6: Apply Metal Material**
 
 Now, using the **Layer panel**, right-click on the **metal** layers to select them and apply the **Rose Gold 18k** material.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render_metals-1024x366.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Render_metals-1024x366.png" alt="" height="286" width="800">
 
 **Next Step**: Save the current viewport position for consistency in the rendering process.

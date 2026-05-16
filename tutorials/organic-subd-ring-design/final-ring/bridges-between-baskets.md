@@ -40,7 +40,7 @@ Start with the cushion basket and select faces as shown in the image.
 
 Repeat the process with the round basket.&#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-2024-11-20T170936.556.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-2024-11-20T170936.556.png" alt="" width="375">
 
 Use the bottom view to facilitate the process
 

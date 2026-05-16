@@ -8,7 +8,7 @@ description: 'Objective: Apply materials and create a stunning render.'
 
 In the "Render and Animation" tab, apply the following materials:
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10.png" alt="" width="375">
 
 ### **Step 2: Apply Materials**
 
@@ -30,7 +30,7 @@ For the background, select a "Basic Reflection Green."
 
 Adjust the render settings as needed.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png" alt="" height="227" width="800">
 
 Your stunning fantasy ring is now complete and ready for final presentation!
 

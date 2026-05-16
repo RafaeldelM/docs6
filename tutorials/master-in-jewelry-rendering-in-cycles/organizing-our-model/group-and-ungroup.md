@@ -4,7 +4,7 @@ We can use the Group and Ungroup commands to organize a model by elements.
 
 **Example 1:**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/RENDER-02-03-001-2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/RENDER-02-03-001-2.png" alt="" height="300" width="188">
 
 Let’s suppose that, as in the image, our model is composed of three gems, which will have the same material, a series of diamonds, which will also have the same material, and a metal. But all the elements are grouped together so that when we click on an element, we select the whole object.
 
@@ -12,7 +12,7 @@ Our main interest is to divide the model into its different elements, in this ca
 
 Having selected the model, type **Ungroup** and press **Enter**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/RENDER-02-03-002-2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/RENDER-02-03-002-2.png" alt="" height="253" width="300">
 
 Now when selecting an element, we see that it is not attached to the entire model.
 

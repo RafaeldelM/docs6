@@ -16,7 +16,7 @@ description: Trim the excess material of the design to match the selected ring s
 
 Use the **Cut** command in the **Outliner** to trim to the reference curve size.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Group-52-234x300.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Group-52-234x300.png" alt="" height="300" width="234">
 
 Select all NURBS elements, press **F3**, and disable **Show Surface Iso Curves** to improve visibility.
 

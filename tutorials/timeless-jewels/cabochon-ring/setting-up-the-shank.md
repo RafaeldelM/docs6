@@ -16,14 +16,14 @@ In the **Shanks** tab (1), select the **Signet** (2) command in the **Shanks** t
 
 For better visualization, switch to **Shaded Mode** by clicking on the bottom-right corner of each viewport.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Signet_shaded.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Signet_shaded.png" alt="" width="563">
 
 ### **Edit Profile**
 
 * Without selecting any element, click on **Edit**.
 * Click the **profile preview** (1) and select **Profile 003** (2).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Signet_profile.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Signet_profile.png" alt="" width="563">
 
 ### **Set Dimensions**
 

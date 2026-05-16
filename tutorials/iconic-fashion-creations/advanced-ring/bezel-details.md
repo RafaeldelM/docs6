@@ -15,7 +15,7 @@ Select the bezel and click "Edit." In the "Cutter and Airgap" options adjust the
 
 Switch the mode to the fourth option. Set the number of cutters to 2.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-25-1024x570.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-25-1024x570.png" alt="" height="445" width="800">
 
 ### **Step 2: Bezel Cut**
 
@@ -23,7 +23,7 @@ Cut the bezel to match the shank curve.
 
 * In the Outliner, next to the ring size, click the "Cut" icon.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-26.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-26.png" alt="" height="526" width="551">
 
 * Select the bezel and press Enter.
 

@@ -4,7 +4,7 @@ There are several properties that one element can obtain from another, within th
 
 Tip: In order to find the button Match we must have selected at at least one element.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/07-01.png) ![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/07-02.png)
+<div><img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/07-01.png" alt="" height="173" width="300"> <img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/07-02.png" alt="" height="300" width="139"></div>
 
 &#x20;
 

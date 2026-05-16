@@ -8,7 +8,7 @@ description: Apply final materials and render your pendant design.
 
 To create the final render, go to the Render and Animation panel.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/RenderAndAnimation-Panel-1024x106.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/RenderAndAnimation-Panel-1024x106.png" alt="" height="83" width="800">
 
 ### **Step 2:  Metals**
 
@@ -24,17 +24,17 @@ To create the final render, go to the Render and Animation panel.
 * Select one by one the main gems and apply your preferred gem material.&#x20;
 * Choose your preferred ground style under the Ground category.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/LayersSelect-GEMS-1024x333.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/LayersSelect-GEMS-1024x333.png" alt="" height="260" width="800">
 
 Adjust the perspective angle and distance to frame your render. Set your preferred resolution and quality, then click the Render button.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/LayersSelect-Metal-1-1024x277.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/LayersSelect-Metal-1-1024x277.png" alt="" height="216" width="800">
 
 &#x20;
 
 Your halo pendant design is ready to showcase! Share it on social media for all to see.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Render-Final-1024x277.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Render-Final-1024x277.png" alt="" height="216" width="800">
 
 ### **Video Lesson**
 

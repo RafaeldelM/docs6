@@ -14,7 +14,7 @@ Now, click on the top view, at the top-left viewport, and we will create the pai
 
 In the **Rendering** tab, find and click on the **Pair** command to create a matching earring.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7221-2-1024x104.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-7221-2-1024x104.png" alt="" height="81" width="800">
 
 ### **Step 3: Create the Pair**
 

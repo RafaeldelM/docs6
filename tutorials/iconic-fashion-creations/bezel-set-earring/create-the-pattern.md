@@ -8,19 +8,19 @@ description: 'Objective: Arrange the circles into a pattern that fits the earrin
 
 Use the **PlaneHandle** on the gumball and hold **Alt** to move the circles and create a **repeating pattern**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Copyy.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Copyy.png" alt="" height="190" width="800">
 
 ### **Step 2**: Pose the curves
 
 Ensure that the **outer curves overlap**, and the distance between points is at least **1.5 mm**. This ensures stability once the piece is manufactured.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Pattern_Earrings.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Pattern_Earrings.png" alt="" height="396" width="146">
 
 ### **Step 3**: Distance
 
 Use the **Distance** command in the **Analyze** tab to measure the distance between two intersection points.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Distance.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Distance.png" alt="" height="269" width="800">
 
 ### **Step 4**: Adjust&#x20;
 

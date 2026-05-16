@@ -8,7 +8,7 @@ description: 'Objective: Adjust the shank profiles to provide comfort and a soli
 
 Change the **upper profiles** in the profile list.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-Profiles-1024x388.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-Profiles-1024x388.png" alt="" height="303" width="800">
 
 To identify which profile to edit, look at the **colored dots** that correspond to the profiles in the panel.
 
@@ -16,7 +16,7 @@ To identify which profile to edit, look at the **colored dots** that correspond 
 
 Set the **comfort type** to **Solid** for both sides.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-Profiles-1-1024x293.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-Profiles-1-1024x293.png" alt="" height="229" width="800">
 
 &#x20;
 
@@ -24,7 +24,7 @@ Set the **comfort type** to **Solid** for both sides.
 
 Adjust the **diameter of the bridge** to **2.7 millimeters** for a sturdy design.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-Profiles-2-1024x293.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-Profiles-2-1024x293.png" alt="" height="229" width="800">
 
 ### **Video Lesson**
 

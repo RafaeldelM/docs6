@@ -8,7 +8,7 @@ description: 'Objective: Apply materials to the ring and create a final render.'
 
 Go to the "Render and Animation" tab.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10.png" alt="" height="307" width="497">
 
 ### **Step 2: Materials**
 
@@ -20,7 +20,7 @@ For the final render, go to the render and animation tab:
 
 _Use the "Hide" command to temporarily hide the metals. To do this, with the metals selected, type **hide** in the command bar. To show the hidden elements again, simply type **show** in the command bar."_
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-26-1-1024x575.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-26-1-1024x575.png" alt="" height="449" width="800">
 
 ### **Step 3: Show command** &#x20;
 
@@ -30,12 +30,12 @@ Use the Show command in the command bar to display the metals again.
 
 The last step will be to set the parameters for the render and we will have our complete model.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png" alt="" height="227" width="800">
 
 ### **Step 5:** Render
 
 Press the render button.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-27.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-27.png" alt="" height="117" width="512">
 
 <figure><img src="../../../.gitbook/assets/01.png" alt=""><figcaption></figcaption></figure>

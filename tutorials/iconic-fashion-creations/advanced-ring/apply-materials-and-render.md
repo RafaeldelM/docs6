@@ -10,7 +10,7 @@ description: >-
 
 Go to the "Render and Animation" tab.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10.png" alt="" width="375">
 
 ### **Step 2: Apply Materials**
 
@@ -23,13 +23,13 @@ Apply the following materials.
 
 &#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-31-1024x685.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-31-1024x685.png" alt="" height="535" width="800">
 
 ### **Step 3:** Render
 
 Adjust the render settings to your preferences.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png" alt="" height="227" width="800">
 
 Your elegant ring is complete and ready for presentation!
 

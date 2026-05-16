@@ -12,11 +12,11 @@ In this lesson, we are going to work with a half-carat diamond. RhinoArtisan pro
 
 In the "Diamonds" tab **(1)**, select the "Gem Studio" command **(2)**. This will open a panel where you can customize various parameters of your diamond.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/StudEarrings-Diamonds-5-1024x82.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/StudEarrings-Diamonds-5-1024x82.jpg" alt="" height="64" width="800">
 
 Set the parameters according to your design needs. **(3)**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/StudEarrings-Diamonds-4.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/StudEarrings-Diamonds-4.jpg" alt="" height="411" width="200">
 
 * **Add to Center (4):** The diamond will be added to the center of the viewport.
 * **Add to a Specific Point (5):** Select a point in the viewport, and the diamond will be positioned at that exact location.
@@ -27,7 +27,7 @@ Set the parameters according to your design needs. **(3)**
 * The **QuickGems** **panel** is located on the left side of the interface. From here, you can quickly select the diamond's shape, material, and choose from the available carat weights.\
   Once selected, the diamond will be automatically placed in the center of the viewport.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/09/Quick-Gems-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/09/Quick-Gems-1024x576.png" alt="" height="450" width="800">
 
 ### **Step 1: Add gem**
 

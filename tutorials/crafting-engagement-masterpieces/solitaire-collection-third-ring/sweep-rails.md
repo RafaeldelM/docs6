@@ -8,19 +8,19 @@ description: 'Objective: Perform a sweep to create the shank using the helix and
 
 With the two profiles created, go to the **Surface** tab and select the **Sweep 1 Rail** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail-1024x135.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail-1024x135.png" alt="" height="105" width="800">
 
 ### **Step 2**: Create the Sweep
 
 Select the **helix**, then the **upper rail**, and finally the **lower rail**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail_selection-1-1024x309.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail_selection-1-1024x309.png" alt="" height="241" width="800">
 
 ### **Step 3**: Ajust Seam
 
 Press **Enter**. Adjust the **seam point** like in the image, so that both arrows point in the same direction. Do it from the **Top View**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail_adjustSeam-1024x309.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail_adjustSeam-1024x309.png" alt="" height="241" width="800">
 
 &#x20;
 
@@ -28,7 +28,7 @@ Press **Enter**. Adjust the **seam point** like in the image, so that both arrow
 
 **Press enter.** In the options panel, leave the default values. Press **OK**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail_Enter-1024x754.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Sweep1Rail_Enter-1024x754.png" alt="" height="589" width="800">
 
 ### **Video Lesson**
 

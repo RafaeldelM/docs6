@@ -11,7 +11,7 @@ description: 'Objective: Save the last completed ring model for future use.'
 
 &#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-12-3.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-12-3.png" alt="" height="779" width="2728">
 
 &#x20;
 

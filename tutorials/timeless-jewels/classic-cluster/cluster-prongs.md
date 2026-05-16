@@ -6,7 +6,7 @@ This lesson will focus on the **Prongs Tab.**
 
 * **Mode**: 3º
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Screenshot-2024-11-12-172817.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Screenshot-2024-11-12-172817.png" alt="" height="121" width="434">
 
 ### Now, for the **Internal Prongs**:
 

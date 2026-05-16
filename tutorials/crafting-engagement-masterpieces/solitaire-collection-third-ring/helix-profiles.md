@@ -10,21 +10,21 @@ Create the first curve for the sweep:
 
 * Under the **Circle** button, use **Diameter command.**&#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Circle_Command-1-1024x235.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Circle_Command-1-1024x235.png" alt="" height="184" width="800">
 
 * Set the first point.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/FirstPoint-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/FirstPoint-1024x576.png" alt="" height="450" width="800">
 
 * Activate Ortho mode, set the second point. Type  **1.50 millimeters** for the outer tip. Use the **perspective view.**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/End-Point-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/End-Point-1024x576.png" alt="" height="450" width="800">
 
 ### **Step 2**: Visibility
 
 Hide the basket and the gem using the **Hide** command or the **outliner** for better visibility.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Hide.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Hide.png" alt="" height="201" width="800">
 
 ### **Step 3**: Create a new curve
 

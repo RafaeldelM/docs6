@@ -12,7 +12,7 @@ Delete the left half of the cushion basket.
 
 Mirror the remaining elements along the **Y-axis** to complete the structure.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-2024-11-20T172415.874-1024x1017.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/image-2024-11-20T172415.874-1024x1017.png" alt="" width="375">
 
 ### Create the shank
 

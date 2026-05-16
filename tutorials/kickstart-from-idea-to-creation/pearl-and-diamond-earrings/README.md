@@ -9,22 +9,22 @@ In this course, you'll dive into creating stunning pearl and diamond earrings us
 **Master the Curator Panel for Seamless Workflow**\
 Get comfortable with the Curator panel, learning to organize and reuse previously created elements like gem baskets, saving time and adding consistency to your designs.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud3-1024x396.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud3-1024x396.png" alt="" height="309" width="800">
 
 **Create a Custom Category and Add Elements**\
 Set up personalized libraries in Curator, add components like the Basket and subD, and save your own files to easily access them for future projects and collections.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Curator_save-1024x417.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Curator_save-1024x417.png" alt="" height="326" width="800">
 
 **Precision Positioning and Clasp Addition**\
 Place each component with exact measurements using the Gumball tool, and integrate a professional omega clasp for a secure, polished finish.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Post-1-1024x360.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Post-1-1024x360.png" alt="" height="281" width="800">
 
 **Create a Matching Pair for a Complete Set**\
 Make an identical pair by duplicating and positioning the earring with precise transformations to ensure a symmetrical, refined look.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Pair-1024x331.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Pair-1024x331.png" alt="" height="259" width="800">
 
 **Apply Realistic Materials and Render with Finesse**\
 Select from pearl, diamond, and white gold materials to bring the model to life. Hide and show components for easy access and apply finishing touches to set up a striking, final render.

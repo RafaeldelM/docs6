@@ -10,11 +10,11 @@ description: >-
 
 To begin, go to the **Render and Animation** panel located on the right side of the interface.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1219-1024x307.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1219-1024x307.png" alt="" height="240" width="800">
 
 Alternatively, you can access this panel by going to the **Rendering** tab and clicking on the **Render and Animation** command, located on the far right.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-51-1024x120.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-51-1024x120.jpg" alt="" height="94" width="800">
 
 ### **Step 1: Pearl Material**
 

@@ -8,15 +8,15 @@ description: 'Objective: Design the shank using the cathedral setting.'
 
 &#x20;Go to the "Shanks" tab and select the "Cathedral" command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10-2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-10-2.png" alt="" height="240" width="667">
 
 ### **Step 2: Library**
 
 Choose the CA007 model for the shank and press "Edit." Adjust the region to "United States of America" and set the ring size to 7.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-12-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-12-1.png" alt="" height="516" width="501">
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-17-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-17-1.png" alt="" height="128" width="465">
 
 ### **Step 3:  Parameters**
 
@@ -27,7 +27,7 @@ In the cathedral shank parameters, adjust:
 
 &#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-11-2-429x1024.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-11-2-429x1024.png" alt="" height="750" width="314">
 
 ### **Video Lesson**
 

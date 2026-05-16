@@ -8,25 +8,25 @@ This tutorial will guide you through creating a Halo Cathedral ring design, from
 
 Begin with the shank, using the cathedral command to set the foundational shape. Switch to Shaded Display Mode for clear visibility, then adjust the ring’s profile to add your personal touch. Key measurements will include the top and bottom widths and heights for a balanced structure.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shaded-1024x370.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shaded-1024x370.png" alt="" height="289" width="800">
 
 **Adjust the Ring’s Profile**
 
 Refine the shank by adjusting parameters like width, height, and angles for a clean, precise look. Modify bridge elements to finalize the structure, setting key widths and diameters to create a cohesive design.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank-Cathedral-finish-1024x344.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Shank-Cathedral-finish-1024x344.png" alt="" height="269" width="800">
 
 **Add and Position the Gemstone**
 
 Next, place a 0.36ct round diamond at the center. Use the Gumball tool to adjust its position precisely, ensuring a harmonious setting within the shank.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Move-12-Y-1024x306.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Move-12-Y-1024x306.png" alt="" height="239" width="800">
 
 **Design the Halo Setting**
 
 Add a halo to accentuate the center diamond. Modify gem size, spacing, and prong settings for a perfect fit, with settings for vertical alignment, inner height, and prong height. Customize the drill holes to enhance the setting’s detail and stability.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-FInal-1024x543.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-FInal-1024x543.png" alt="" height="424" width="800">
 
 &#x20;
 
@@ -34,7 +34,7 @@ Add a halo to accentuate the center diamond. Modify gem size, spacing, and prong
 
 Once the structure is complete, set up a render with White Gold 18K and diamond textures. Adjust the perspective and angles, add reflections, and select high-quality settings for a professional-grade render that showcases every detail.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-Metal_2-1024x362.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/LayersSelect-Metal_2-1024x362.png" alt="" height="283" width="800">
 
 ### Who Should Take This Course?
 

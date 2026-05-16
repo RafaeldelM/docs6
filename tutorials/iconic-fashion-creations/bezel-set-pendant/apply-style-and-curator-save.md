@@ -12,13 +12,13 @@ Show all elements and save the reference circles in the Curator panel
 
 Use the **Apply Style** command. Select the bezel and then select all gemstones.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/ApplyStyle-1024x335.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/ApplyStyle-1024x335.png" alt="" height="262" width="800">
 
 ### **Step 3**: Review
 
 Ensure the bezel fits perfectly within the reference curve.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-2024-10-16T165808.518-289x1024.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-2024-10-16T165808.518-289x1024.png" alt="" height="800" width="226">
 
 ### **Step 4**: Save in the Curator Panel
 

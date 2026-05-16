@@ -4,25 +4,25 @@
 
 Go to the "Shanks" tab and select the "Curve" command to create a reference curve.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-2.png" alt="" height="179" width="483">
 
 ### **Step 2: Ring Size**
 
 Set the region to **United States of America** and choose size **7**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-17-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-17-1.png" alt="" height="133" width="483">
 
 ### **Step 3: Quick Gems Panel**
 
 In the **Quick Gems** panel, create a **1-carat gem**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-1-2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-1-2.png" alt="" height="296" width="483">
 
 ### **Step 4: Gem Position**&#x20;
 
 Select the gem, then go to the "Transform" tab and use the **Move** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-6.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-6.png" alt="" height="306" width="483">
 
 Enable the **Osnap** aids, ensuring that **Vertex** and **Mid** are activated.
 

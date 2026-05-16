@@ -6,11 +6,11 @@ To enable the **Named View**, follow these steps:
 2. Press "Enter."
 3. A window will appear where you can save the different poses.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1102-235x300.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1102-235x300.jpg" alt="" height="300" width="235">
 
 By clicking on the save icon, we will name the first pose. The camera position at the time of saving will be stored.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1103-1024x544.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1103-1024x544.jpg" alt="" height="425" width="800">
 
 We will be able to store different poses, to return to each one of them it will be enough to do **double-click** on the thumbnails of the library.
 

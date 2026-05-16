@@ -33,13 +33,13 @@ Next, we will refine the edges of the socket.
 
 In the "Solid" tab **(1)**, select the "Fillet Edge" command **(2)**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Fillet-1024x107.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Fillet-1024x107.jpg" alt="" height="84" width="800">
 
 ### **Step 6: Fillet Parameters**
 
 Set the fillet radius to `0.3 millimeters` in the command bar and press "Enter".
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-29-1-1-1024x117.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-29-1-1-1024x117.png" alt="" height="91" width="800">
 
 ### **Step 7: FIllet Edges**
 

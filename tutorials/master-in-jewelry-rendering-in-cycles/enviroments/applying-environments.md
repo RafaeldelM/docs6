@@ -2,13 +2,13 @@
 
 Lighting is fundamental to rendering a model. Even having the final materials, the result is not real without adequate lighting. By applying an environment we can observe the difference, colors and realistic reflections.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Render-August-08-110916-1024x768.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Render-August-08-110916-1024x768.jpg" alt="" height="600" width="800">
 
 To begin with, we must know that the materials we have are correctly illuminated. When applied to a model it automatically generates its own lighting.\
 \
 As you can see in this image, the diamonds have been assigned the diamond material, making them visible even though the scene isn't properly illuminated. This ease of applying materials in RhinoArtisan greatly facilitates the final renders.<br>
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Render-August-08-111241-1024x768.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Render-August-08-111241-1024x768.jpg" alt="" height="600" width="800">
 
 &#x20;
 

@@ -18,14 +18,14 @@ In this tutorial you will learn how to:
 
 * Use the curator panel
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud3-1024x396.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud3-1024x396.png" alt="" height="309" width="800">
 
 * Create a pair and pose the model. Discover **new commands**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud4-2-1024x396.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud4-2-1024x396.png" alt="" height="309" width="800">
 
 * Produce a professional-quality render of your finished design.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud5-1024x396.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Stud5-1024x396.png" alt="" height="309" width="800">
 
 By the end of this course, you’ll have the skills to create a beautiful pair of diamond stud earrings from scratch.

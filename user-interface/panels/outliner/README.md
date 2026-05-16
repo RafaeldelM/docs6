@@ -65,7 +65,7 @@ These are all the possible Global Parameters:
 
 The elements in your designs will be displayed below the Outliner's Global Parameters. This list of elements allows you to see the components that form your design.
 
-![](<../../../.gitbook/assets/Outiner Parts Element.jpg>)
+<img src="../../../.gitbook/assets/Outiner Parts Element.jpg" alt="" width="423">
 
 Each element listed has, from left to right, the following features:
 

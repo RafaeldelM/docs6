@@ -11,7 +11,7 @@ description: 'Objective: Fine-tune the shank parameters to match the desired des
 * Set the bottom width to 2.5 millimeters
 * Set the bottom height to 1.5 millimeters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-25-at-11.09.13.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-25-at-11.09.13.png" alt="" height="450" width="258">
 
 ### **Step 2: Cathedral Options**
 
@@ -22,13 +22,13 @@ Further down in the Cathedral options, change:
 * Leave the Angle at 130 degrees
 * Set the Tangent to zero by dragging the slider to the left.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-25-at-11.10.04.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-25-at-11.10.04.png" alt="" height="450" width="488">
 
 ### **Step 3: Bridge**
 
 In the Bridge options, only change the Width to 1.5 millimeters.&#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-25-at-11.12.20.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Screenshot-2024-07-25-at-11.12.20.png" alt="" height="402" width="516">
 
 With these adjustments, we've finished our shank. Now, it's time to add the gem.
 

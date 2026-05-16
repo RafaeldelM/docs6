@@ -26,9 +26,9 @@ Cut the bezel to match the height of the shank curve by selecting the "Cut" icon
 
 * Select the bezel and then click on the "Cut" icon in the outliner.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-5.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-5.jpg" alt="" height="331" width="800">
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-6.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-6.jpg" alt="" height="367" width="800">
 
 ### **Video Lesson**
 

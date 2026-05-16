@@ -13,7 +13,7 @@ Here are the parameters:
 * **Bend Height**: 0.3 mm
 * **Bend Rotation**: 0
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Main-gem-Rail-1024x476.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Main-gem-Rail-1024x476.png" alt="" height="372" width="800">
 
 The **Bend Height** is especially important because it ensures the rail follows the curve of the ring’s inner side. This gives our design a seamless, comfortable fit.<br>
 

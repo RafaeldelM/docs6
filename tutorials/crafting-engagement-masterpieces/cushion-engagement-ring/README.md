@@ -9,7 +9,7 @@ In this detailed course, you’ll learn to design a stunning engagement ring tha
 **Establish the Foundation: Curve and Diamond Creation**\
 Learn to set up a custom reference curve in the USA size 7 and create a 2-carat Cushion cut gemstone, positioned precisely using Osnap and the Gumball tool.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-2-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Frame-2-1.png" alt="" height="551" width="1063">
 
 ### **Create a Secure Basket Setting**
 
@@ -23,7 +23,7 @@ Design a sturdy, elegant basket setting with circular prongs. Adjust height, dia
 \
 Craft a cathedral-style shank that complements the center basket. You’ll learn to modify dimensions and align the shank for a perfect intersection with the upper rail, ensuring both strength and elegance.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Cathedral-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Cathedral-1024x576.png" alt="" height="450" width="800">
 
 ### **Add Accent Gems to the Shank**
 
@@ -37,7 +37,7 @@ Position accent diamonds along the shank, adjusting the drill height and spacing
 \
 Master the rendering process by applying realistic materials like 18k White Gold for the metals and a diamond texture for the gemstones. Pose your model and set up lighting to capture the elegance of your design.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Materiales-1024x306.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Materiales-1024x306.png" alt="" height="239" width="800">
 
 ### Who Should Take This Course?
 

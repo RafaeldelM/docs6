@@ -18,13 +18,13 @@ In the **Render and Animation** tab, assign materials to your model:
 * For the gem, use the **Diamond** material.
 * Select a ground material like **Basic Reflection Blue** to enhance the render.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-19-1024x180.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-19-1024x180.png" alt="" height="141" width="800">
 
 ### **Step 2: Render**
 
 Adjust the rendering parameters to achieve the best results. Complete the rendering process.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-33-1-1024x291.png" alt="" height="227" width="800">
 
 <figure><img src="../../../.gitbook/assets/spaces_5uhW8FwQpXQj8tHUULMo_uploads_UR9DOyLLQYS1CLyqLjbK_002-03-1.webp" alt=""><figcaption></figcaption></figure>
 

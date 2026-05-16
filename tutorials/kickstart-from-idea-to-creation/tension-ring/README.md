@@ -9,12 +9,12 @@ In this hands-on course, you’ll master the art of creating exquisite tension r
 **Shank Configuration for a Seamless Fit**\
 Begin by designing a striking cathedral shank with customized proportions and fluid profiles to form the foundational style of your tension ring.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-1-1024x509.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Shank-1-1024x509.png" alt="" height="398" width="800">
 
 **Precision Gem Setting**\
 Add and position a gemstone with exactitude, adjusting the cut to ensure a perfect fit. Discover how to work with cutters for a snug, visually balanced gemstone placement.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gems-1024x248.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gems-1024x248.png" alt="" height="194" width="800">
 
 **Expand Your Collection**\
 Replicate your ring to create a trio in varied metal finishes, positioning each one dynamically to showcase the collection’s diversity and elegance.

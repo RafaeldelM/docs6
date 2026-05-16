@@ -38,7 +38,7 @@ Return to the "Shank Parameters," click on the profile curve, and change it to c
 
 Center the views using "Pan, Zoom, and Rotate," followed by "Zoom Extents All."
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-42-1024x906.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-42-1024x906.jpg" alt="" height="400" width="452">
 
 ![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1232-1024x556.png)
 

@@ -10,4 +10,4 @@ Based on four models organized by layers, we want to select the yellow model. To
 
 &#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/06-01.png) ![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/06-02.png) ![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/06-03.png)
+<div><img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/06-01.png" alt="" height="200" width="265"> <img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/06-02.png" alt="" height="120" width="50"> <img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/06-03.png" alt="" height="200" width="226"></div>

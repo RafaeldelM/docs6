@@ -6,13 +6,13 @@
 
 In the "Diamonds" tab, use the "Gem Studio" command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-70-1024x155.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-70-1024x155.jpg" alt="" height="121" width="800">
 
 ### **Step 2: Gem Parameters**
 
 Create a 0.35-carat, marquise stone. For vertical alignment, set the option to "Culet" and click "Add."
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gem-PARAMETERS-500x1024.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gem-PARAMETERS-500x1024.png" alt="" height="800" width="390">
 
 ### **Steps 3: Gem Pose**&#x20;
 

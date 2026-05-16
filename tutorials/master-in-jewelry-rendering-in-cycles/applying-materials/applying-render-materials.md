@@ -6,7 +6,7 @@ The Render & Animation panel keeps all the resources to make rendered images and
 
 The button on the top right corner of this panel allows you to open the Rendering Studio where you can create your images and videos. The button to its left allows you to preview how a rendered image would look with your selected parameters and configurations.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-18.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/Group-18.png" alt="" height="140" width="651">
 
 To add a material to an object in your scene, you can either drag and drop the material on the object, or select the object and then click on the material. This doesn't apply to floor materials, as these can only be used for the ground plane of your scene, to use them you just need to click on the desired floor material.We suggest docking this toolbar to the right side of your layout, especially within the same panel where you have other toolbars, to optimize space.
 

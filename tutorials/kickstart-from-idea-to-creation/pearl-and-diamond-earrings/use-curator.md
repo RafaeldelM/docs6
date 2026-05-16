@@ -8,7 +8,7 @@ description: 'Objective: Use the curator panel'
 
 To create a new category in Curator, click on Create a Folder, in the upper right corner of the Curator panel, which is in the lower left corner of the screen.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-47.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-47.jpg" alt="" height="373" width="277">
 
 ### **Step 2: Name it**
 
@@ -18,7 +18,7 @@ Name it "RhinoArtisan Tutorial."
 
 As you can see, a new empty category has been created.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1244.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1244.jpg" alt="" height="373" width="241">
 
 ### **Step 3: Add Elements**
 

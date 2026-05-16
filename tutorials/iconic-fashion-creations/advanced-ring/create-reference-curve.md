@@ -8,13 +8,13 @@ description: 'Objective: Create the reference curve for the ring in size 7.'
 
 Let's start by creating a curve with the shank's size. Go to the Shanks tab, and click on the Curve command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-2.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-2.png" alt="" height="248" width="671">
 
 ### **Step 2: Ring Size**
 
 Change the region to the United States of America and select a size 7.&#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-4.png" alt="" height="129" width="492">
 
 ### **Video Lesson**
 

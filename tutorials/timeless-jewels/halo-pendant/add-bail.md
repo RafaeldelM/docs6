@@ -12,23 +12,23 @@ description: Position the halo and add a custom bail for pendant attachment.
 
 &#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Position-1024x372.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Position-1024x372.png" alt="" height="291" width="800">
 
 ### **Step 2: Create de bail**
 
 In the **Components** (1) tab, select the **Bail** command (2).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/BailComand-1024x169.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/BailComand-1024x169.png" alt="" height="132" width="800">
 
 Click Edit (1):
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Bail-Edit-1024x323.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Bail-Edit-1024x323.png" alt="" height="252" width="800">
 
 ### **Step 3: Profile**
 
 Open the Asset selector panel (1). Select Asset **007** (2) and edit the profile (3), keeping only three left-side points (4).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Profile-Edit-1-1024x323.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Profile-Edit-1-1024x323.png" alt="" height="252" width="800">
 
 * Set the Height to 1.5 millimeters.
 
@@ -36,7 +36,7 @@ In the bottom profile tab, select the same asset for the profile (007).
 
 * Set the Width to 1.8 millimeters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Profile-Edit-2-1024x323.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Profile-Edit-2-1024x323.png" alt="" height="252" width="800">
 
 ### **Step 4: Airgap**
 
@@ -52,7 +52,7 @@ Configure the airgap settings:
 
 Enable the O-Ring, set Thickness to 0.9 mm, and Diameter to 1.5 mm. Confirm changes by clicking “Confirm Changes” in the top-right corner.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Oring-1024x323.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Oring-1024x323.png" alt="" height="252" width="800">
 
 &#x20;
 

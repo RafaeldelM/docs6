@@ -10,23 +10,23 @@ description: >-
 
 In the **Diamond** tab (1), select **Gems Studio** (2).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Gems-Studio-1024x141.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Gems-Studio-1024x141.png" alt="" height="110" width="800">
 
 Create a **1-carat diamond** and click **Add**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/GEm-1-1024x278.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/GEm-1-1024x278.png" alt="" height="217" width="800">
 
 ### **Step 2: Pose**
 
 Using the **Gumball** in the front view, drag the green arrow to lift the diamond slightly above the ring.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Pose-Gem-1024x883.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Pose-Gem-1024x883.png" alt="" width="375">
 
 ### **Step 3: Add the Basket**
 
 With the diamond selected, click **Basket**, choose **BA001**, and click the **Pencil** button to edit.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Basket-1024x291.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Basket-1024x291.png" alt="" height="227" width="800">
 
 ### **Step 4: Modify Basket Parameters**
 
@@ -37,7 +37,7 @@ With the diamond selected, click **Basket**, choose **BA001**, and click the **P
 * **Bottom Diameter**: 1.0mm
 * **Bottom Rail Inside**: 0.5mm
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Parametros1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Parametros1.png" alt="" width="375">
 
 ### **Step 5: Upper Rail Parameters**
 
@@ -45,7 +45,7 @@ With the diamond selected, click **Basket**, choose **BA001**, and click the **P
 * Width and Height: **1.0mm**
 * Height Under Girdle: **1.3mm**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Upper-Rail-1024x542.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Upper-Rail-1024x542.png" alt="" height="423" width="800">
 
 ### **Step 6: Lower Rail Parameters**
 
@@ -53,7 +53,7 @@ With the diamond selected, click **Basket**, choose **BA001**, and click the **P
 * Width and Height: **0.6mm**
 * Height Under Girdle: **1.3mm**
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/BottomRail-1024x554.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/BottomRail-1024x554.png" alt="" height="433" width="800">
 
 ### **Step 7: Confirm**
 
@@ -63,7 +63,7 @@ Click **Confirm Changes** to apply basket settings.
 
 Use the pan, zoom, and rotate tools to fine-tune the basket’s position. Use **Zoom Extents All** to center all views.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/ZoomExtents-1024x409.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/ZoomExtents-1024x409.png" alt="" height="320" width="800">
 
 ### **Video Lesson**
 

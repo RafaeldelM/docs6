@@ -18,9 +18,9 @@ Adjust the following parameters:
 * Bring cut: 0.
 * Margin: 0.70 millimeters.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-14-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-14-1.png" alt="" height="750" width="429">
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-20-1-1024x562.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-20-1-1024x562.png" alt="" height="439" width="800">
 
 ### **Video Lesson**
 

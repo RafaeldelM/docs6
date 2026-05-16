@@ -9,27 +9,27 @@ In this tutorial, we’ll design an exquisite fantasy ring with a 0.35-carat Mar
 **Select & Position the Marquise Diamond**\
 Start by creating the perfect Marquise diamond and positioning it for balance and elegance.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gem_fantasy-1024x322.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gem_fantasy-1024x322.png" alt="" height="252" width="800">
 
 **Design an Elegant Bezel**\
 Craft a custom bezel with secure settings and ample light flow, enhancing the stone's brilliance.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bezel_fantasy-1024x322.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bezel_fantasy-1024x322.png" alt="" height="252" width="800">
 
 **Apply a Polar Array to Create a Stunning Fantasy Effect**\
 Use a quick polar array to multiply the gem’s effect, creating a dynamic and balanced appearance.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Polar_fantasy-1024x322.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Polar_fantasy-1024x322.png" alt="" height="252" width="800">
 
 **Create the Cathedral Shank**\
 Create a custom cathedral shank with perfect curves and profile adjustments for a refined, elegant base.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Cathedral-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Cathedral-1024x576.png" alt="" height="450" width="800">
 
 **Apply Finishing Materials & Render**\
 Choose luxurious white gold and brilliant diamond materials, then set up a reflective background to capture the ring’s full beauty in your final render.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Materiales-1024x306.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Materiales-1024x306.png" alt="" height="239" width="800">
 
 ### Who Should Take This Course?
 

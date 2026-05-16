@@ -8,7 +8,7 @@ description: 'Objective: Create and customize a bezel setting for the top gemsto
 
 Copy the top gemstone to create a bezel that will be used for the rest of the set.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gems_circlesCOPY.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Gems_circlesCOPY.png" alt="" height="339" width="800">
 
 ### **Step 2**: Bezel Command
 
@@ -20,13 +20,13 @@ Go to the **Diamonds Tab,** Select the gemstone and use the **Bezel** command.
 
 Choose the **BE016** model and click **Edit**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/BezelBE016-1-1024x273.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/BezelBE016-1-1024x273.png" alt="" height="213" width="800">
 
 ### **Step 4**: Reduce the Weight
 
 Edit the profile curve to reduce the weight by adjusting **two points** as shown in the reference image.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Reff-Profile-1024x417.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Reff-Profile-1024x417.png" alt="" height="326" width="800">
 
 ### **Step 5**: Bezel Parameters
 

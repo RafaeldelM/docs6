@@ -10,7 +10,7 @@ description: >-
 
 Go to the **Diamonds** tab, select **Halo**, then click on the **Pencil** icon (1) to start customizing.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Setting-1024x278.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/10/Halo-Setting-1024x278.png" alt="" height="217" width="800">
 
 ### **Step 2:  Metal Tab**
 
@@ -22,7 +22,7 @@ Go to the **Metal Tab** and adjust parameters
 * **Z Position**: 0
 * **Rotation**: 10º
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Metal-tab-434x1024.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Metal-tab-434x1024.png" alt="" width="188">
 
 ### **Step 3: Go to the Gems Tab**
 
@@ -52,7 +52,7 @@ Adjust Parameters for the **Main Gem**
 * **Height Over**: 0.7 mm
 * **Channel Inside**: 0.2 mm
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/11/Gam-tab.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/11/Gam-tab.png" alt="" width="188">
 
 ### **Video Lesson**
 

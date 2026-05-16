@@ -6,11 +6,11 @@ We will begin by adjusting the **Resolution** and **Quality** options:
 
 * First, we will render a region to check the quality.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1122.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1122.jpg" alt="" height="559" width="806">
 
 * Then, we will proceed with a full rendering.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1105.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1105.jpg" alt="" height="500" width="600">
 
 The goal of this task is to understand the impact of changing the sample count and resolution. As we increase these values, we will observe that the render time also increases, but so does the quality of the final image.
 
@@ -18,7 +18,7 @@ To complete this exercise, start by choosing a resolution. Then, render the scen
 
 Render 1 Quality
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/1-sample-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/1-sample-1024x576.png" alt="" height="450" width="800">
 
 Render 400 Quality.<br>
 

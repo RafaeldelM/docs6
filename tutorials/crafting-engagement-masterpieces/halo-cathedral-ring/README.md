@@ -9,34 +9,34 @@ In this course, you’ll learn how to create a breathtaking halo ring with a cla
 **Create and Position the Center Gemstone**\
 Start with a perfectly sized 1-carat gemstone. Learn the Gem Studio tool to create and align the gemstone with accuracy, setting the foundation for the halo.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/GEm-0.35-1-1024x367.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/GEm-0.35-1-1024x367.png" alt="" height="287" width="800">
 
 ### **Design an Elegant Halo Setting**<br>
 
 Adjust parameters like width, distance, and positioning to create an eye-catching, balanced design.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Halo-1-1024x577.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Halo-1-1024x577.png" alt="" height="451" width="800">
 
 ### **Precision Prong Settings for a Secure Fit**
 
 \
 Master the scalloped prong settings and refine cutter dimensions to provide a secure yet elegant hold for each stone in the halo. Activate V-prongs for the center gem, creating a beautiful, refined finish.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Halo-1024x495.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Halo-1024x495.png" alt="" height="387" width="800">
 
 ### **Craft a Cathedral Shank**
 
 \
 Select and modify a classic cathedral shank. With detailed instructions, resize to fit a US size 7 and adjust dimensions, creating a balanced base for the halo.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Cathedral-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Cathedral-1024x576.png" alt="" height="450" width="800">
 
 ### **Apply Realistic Materials and Render Your Design**
 
 \
 Use materials like Gold 14k for metal elements and Peridot Green for the center gem, giving your ring a luxurious, professional appearance. Refine render settings to create a polished, lifelike result.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Materiales-1024x306.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Materiales-1024x306.png" alt="" height="239" width="800">
 
 ### Who Should Take This Course?
 

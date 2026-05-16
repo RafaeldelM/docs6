@@ -38,29 +38,29 @@ Accept the command.
 
 We will need a reference surface for the profile. In the Surface tab, select the Extrude command
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-81-1.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-81-1.jpg" alt="" height="81" width="800">
 
 ### **Step 4: Extrude**
 
 Select the ring curve, ensure the Both Sides option is set to Yes in the command prompt, type 10, and press Enter.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-82.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-82.jpg" alt="" height="466" width="800">
 
 ### **Step 5: Edit Profile**
 
 Select the profile and click on edit.&#x20;
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-83.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-83.jpg" alt="" height="292" width="250">
 
 Now, select the surface and add it as a reference by clicking in the Profile panel.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-84.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-84.jpg" alt="" height="478" width="800">
 
 ### **Step 6: Osnap**
 
 To create two different profiles on the bottom, activate all options in the Osnap panel except Project and Disable.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1287.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1287.jpg" alt="" height="338" width="296">
 
 ### **Step 7:  Add Profiles**
 
@@ -70,7 +70,7 @@ Use the **+** button to duplicate Profile 1 and Profile 2. Click on the bottom o
 
 **Step 7:** Now we have 4 profiles, and we can edit each one to customize our shank.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-85.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-85.jpg" alt="" height="311" width="800">
 
 > Note that each profile has a different color, matching the color of the gumball for that element. This makes it easier to identify each one.
 

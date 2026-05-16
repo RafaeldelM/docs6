@@ -12,7 +12,7 @@ description: >-
 
 Go to the "Shanks" tab and select the **Advanced** command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-15.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-15.png" alt="" height="252" width="677">
 
 ### **Step 2: Advanced Library**
 
@@ -24,7 +24,7 @@ Choose model **006** and press **Edit**.
 
 Adjust the size to **United States of America** and set the ring to **size 7**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-17-1.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-17-1.png" alt="" height="128" width="465">
 
 ### **Step 4:  Shank Parameters**
 

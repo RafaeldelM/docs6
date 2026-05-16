@@ -10,7 +10,7 @@ description: >-
 
 With the gemstone selected, go to the "Diamonds" **(1)** tab and choose the "Cutter" command **(2)**.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-AddGems-3-1024x141.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-AddGems-3-1024x141.jpg" alt="" height="110" width="800">
 
 ### **Step 2: Cutter Parameters**
 
@@ -22,15 +22,15 @@ Adjust the cutter parameters as follows:
 * Height Girdle: 3%
 * Height Pavilion: 73%
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-27-1024x469.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-27-1024x469.jpg" alt="" height="366" width="800">
 
 It is important to mention that the cutter must cover the entire gem to ensure that the rendering is accurate. If there is any element that intersects with the gem, it will not be able to reflect or refract light correctly during the rendering process.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-28-1024x927.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-28-1024x927.jpg" alt="" height="724" width="800">
 
 ### **Step 3:** Click "Accept".
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-40-1024x552.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-40-1024x552.jpg" alt="" height="431" width="800">
 
 The cutter is now ready. Use it to refine the socket.
 
@@ -38,7 +38,7 @@ The cutter is now ready. Use it to refine the socket.
 
 Go to the "Solid" tab and select the "Boolean Difference" command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Boolean-1024x107.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Lesson-1-Boolean-1024x107.jpg" alt="" height="84" width="800">
 
 First, select the shank and press "Enter".
 
@@ -46,15 +46,15 @@ First, select the shank and press "Enter".
 
 Then, select the cutter. In the command bar, set "DeleteCutters" to "Yes" and press "Enter" to finalize.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-29-1024x568.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-29-1024x568.jpg" alt="" height="444" width="800">
 
 The cutter has now created small notches for a perfect gemstone fit. Select the gem and type in the command bar "Hide". Now you can see the notches. Use wireframe mode.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-43-1024x553.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-43-1024x553.jpg" alt="" height="432" width="800">
 
 Type "**show**" in the command bar to display the gem again. Notice how the metal now fits perfectly to the gem, a perfect fit."
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-30.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-30.jpg" alt="" height="385" width="809">
 
 ### **Video Lesson**
 

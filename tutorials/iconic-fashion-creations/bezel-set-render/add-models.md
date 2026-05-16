@@ -10,7 +10,7 @@ description: >-
 
 Go to the **Curator** panel and open the folder containing your collection.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Curator_Bezel-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Curator_Bezel-1024x576.png" alt="" height="450" width="800">
 
 ### **Step 2: The Ring**
 
@@ -34,7 +34,7 @@ Add the **pendant** and group it as well.
 
 Switch to the **Right View**. Select all the models, type **Align** in the command bar, and choose the **Bottom** option.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Alinear-1024x362.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Alinear-1024x362.png" alt="" height="283" width="800">
 
 Type 0 and press Enter to align all elements along the YX axis at the same height.
 

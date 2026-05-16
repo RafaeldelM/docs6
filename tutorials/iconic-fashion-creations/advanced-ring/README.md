@@ -9,22 +9,22 @@ In this tutorial, we’ll create a refined, custom-designed ring starting with a
 **Define the Reference Curve and Create the Gemstone**\
 Add a half-carat gemstone, position it on the curve, and adjust its height for optimal visibility.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/1.00-1024x407.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/1.00-1024x407.png" alt="" height="318" width="800">
 
 **Design the Bezel Setting**\
 Craft a secure bezel with model BE016, adjusting its width and girdle height for a flawless fit around the gem.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bezel_advanced-1024x350.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Bezel_advanced-1024x350.png" alt="" height="273" width="800">
 
 **Construct the Shank**\
 Use the Advanced shank model to shape the ring band, setting the opening to 13mm for comfort and adjusting all profiles for a seamless fit.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/shank_advanced-1024x350.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/shank_advanced-1024x350.png" alt="" height="273" width="800">
 
 **Add Bezel Details**\
 Apply a delicate heart-shaped detail to the bezel, with precise height and rotation settings, enhancing the overall style with a subtle, elegant touch.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Bezel-1-1024x576.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/09/RA-Features-Bezel-1-1024x576.png" alt="" height="450" width="800">
 
 **Final Material Application and Rendering**\
 Finish your design with 18k Rose Gold for the shank, White Gold for the bezel, and a Citrine gemstone. Set a pink reflective ground for a high-impact final render.<br>

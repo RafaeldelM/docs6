@@ -10,15 +10,15 @@ Before creating the profile of the ring, we need to ensure that the provided cur
 
 In the **Analyze** tab, run the **Length** command and select the line. Then use the command again to analyze the ring curve.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-75-1-1024x107.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-75-1-1024x107.jpg" alt="" height="84" width="800">
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-76-1024x582.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-76-1024x582.jpg" alt="" height="455" width="800">
 
 ### **Step 2: Quick Flow**
 
 Go to the "Transform" tab and select the "Quick Flow" command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-74-2-1024x101.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-74-2-1024x101.jpg" alt="" height="79" width="800">
 
 ### **Step 2:  How to use Quick  Flow**
 
@@ -31,7 +31,7 @@ For the **Object to Flow** option, there are two types:
 * **Deformable**: The object changes its shape to adapt to the target curve.
 * **Rigid**: The object does not change its shape, such as gems.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-77.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-77.jpg" alt="" height="385" width="800">
 
 As we can see, the profile curve is not in the correct position, so we need to rotate it 180 degrees.
 
@@ -45,11 +45,11 @@ Select the profile curve, go to the **front view**, and notice that the center o
 
 In the "transform tab" , use the "Rotate" command.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-78.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/Group-78.jpg" alt="" height="80" width="800">
 
 Type **0** to set the center at the plane of the viewport axis, and then rotate the curve **180** degrees, type 180 and press enter to align it correctly.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1277.jpg)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/07/image-1277.jpg" alt="" height="450" width="800">
 
 ### **Video Lesson**
 

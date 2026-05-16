@@ -9,11 +9,11 @@ We can import an environment, dragging it from any folder to the workspace. Anot
 
 From the + icon we can both import and create a new environment.
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1111-300x276.png)
+<img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1111-300x276.png" alt="" height="276" width="300">
 
 Once a basic environment has been created, we must assign it a background color (background color) and an image as a texture (Click to assign texture).
 
-![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1112-129x300.png) ![](https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1113-300x213.png)
+<div><img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1112-129x300.png" alt="" height="300" width="129"> <img src="https://www.rhinoartisan.com/wp-content/uploads/2024/08/image-1113-300x213.png" alt="" height="213" width="300"></div>
 
 **Rotation**
 
