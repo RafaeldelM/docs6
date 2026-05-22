@@ -1083,6 +1083,7 @@
   * [How to disable the tripod?](frequently-asked-questions/usage-questions/how-to-disable-the-tripod.md)
   * [How to move my license to another computer](frequently-asked-questions/usage-questions/how-to-move-my-license-to-another-computer.md)
   * [How to modify a translation in RhinoArtisan?](frequently-asked-questions/usage-questions/how-to-modify-a-translation-in-rhinoartisan.md)
+  * [Does RhinoArtisan work on Mac?](frequently-asked-questions/usage-questions/does-rhinoartisan-work-on-mac.md)
 * [3D Printing](frequently-asked-questions/3d-printing/README.md)
   * [How can I integrate RhinoArtisan into my printer's 3D printing software?](frequently-asked-questions/3d-printing/how-can-i-integrate-rhinoartisan-into-my-printers-3d-printing-software.md)
 * [How to Link RhinoArtisan with Connect?](frequently-asked-questions/key.md)
