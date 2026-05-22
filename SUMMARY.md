@@ -1077,6 +1077,7 @@
   * [How to display the toolbar?](frequently-asked-questions/installation-and-updates/how-to-display-the-toolbar.md)
   * [Rhino 8 and .NET Core 7: What Does It Mean?](frequently-asked-questions/installation-and-updates/rhino-8-and-.net-core-7-what-does-it-mean.md)
   * [Does RhinoArtisan work on Mac?](frequently-asked-questions/installation-and-updates/does-rhinoartisan-work-on-mac.md)
+  * [How can I remove the RhinoArtisan license from Rhino Options > Licenses?](frequently-asked-questions/installation-and-updates/how-can-i-remove-the-rhinoartisan-license-from-rhino-options-greater-than-licenses.md)
 * [Usage Questions](frequently-asked-questions/usage-questions/README.md)
   * [How to restore the user interface layout?](frequently-asked-questions/usage-questions/how-to-restore-the-user-interface-layout.md)
   * [How to import textures on RhinoArtisan](frequently-asked-questions/usage-questions/how-to-import-textures-on-rhinoartisan.md)
